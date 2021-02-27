@@ -1,3 +1,3 @@
 # gitpracticerepo
-practice commands for git uses
-this test for readme
+ipractice commands for git uses
+i made some changes to face problems
