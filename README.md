@@ -1,2 +1,5 @@
 # gitpracticerepo
-practice commands for git uses
+ipractice commands for git uses
+i made some changes to face problems
+
+
